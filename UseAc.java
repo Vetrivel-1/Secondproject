@@ -14,5 +14,7 @@ public class UseAc {
 	   Ac ac=new Ac(s,t,d,compressor);
 	   System.out.println(ac);
 	   
+	   System.out.println("ashded");
+	   
    }
 }

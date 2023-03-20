@@ -7,6 +7,7 @@ package com.onesoft.day15;
  private int price; 
  private Compressor compresssor;
  private Compressor compressor;
+ 
 
 
 public Ac(String brand,int price,boolean isAutomatic,Compressor compressor) {
